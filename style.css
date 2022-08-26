@@ -1,0 +1,25 @@
+.header
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:rgb(58, 96, 98);
+}
+img
+{
+    width: 500px;
+    height: auto;
+
+}
+body
+{
+    background-color: darkgray;
+}
+p
+{
+    color:rgb(58, 96, 98);
+}
+.list 
+{
+    font-size: 20px;
+    color:rgb(36, 60, 61);
+}
